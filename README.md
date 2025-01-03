@@ -23,11 +23,11 @@ In our game, we will have two teams moving across a soccer field--each team will
 - Speaker
 
 # Gameplay Mechanics
-1. Use the joystick for field player movement.
-2. Use the slide potetiometer for goalkeeper movement.
-3. Execute actions such as shooting, passing, and switching between field players with the external switches.
+- Use the joystick for field player movement.
+-  Use the slide potetiometer for goalkeeper movement.
+-   Execute actions such as shooting, passing, and switching between field players with the external switches.
 
-## How to Play
+# How to Play
 - Move your field players using the joystick.
 - Switch between field players using switch 4.
 - Move your goalkeeper using the slide potentiometer.
